@@ -48,8 +48,8 @@ MG
 ```
 
 Exemplo 2
-```PHP
 Converter DDD para Nome do Estado
+```PHP
 <?= \BrazilianDddToUF\Convert\ConvertDDDtoStateName::getStateName(31) ?>
 
 Result: 
