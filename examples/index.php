@@ -30,7 +30,7 @@ require_once "../vendor/autoload.php";
 </ul>
 <blockquote>
     <p><pre>
-&lt;?= \BrazilianDddToUF\Convert\ConvertDDDtoUF::getUF(31) ?&gt;
+&lt;?= \BrazilianDddToUF\Convert\ConvertDDDtoStateName::getStateName(31) ?&gt;
 
 <strong>Result: <br /></strong><?= \BrazilianDddToUF\Convert\ConvertDDDtoStateName::getStateName(31) ?>
         </pre>

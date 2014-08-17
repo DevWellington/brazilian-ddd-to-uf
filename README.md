@@ -34,7 +34,7 @@ require 'vendor/autoload.php';
 echo \BrazilianDddToUF\Convert\ConvertDDDtoUF::getUF(31);
 ```
 
-##Veja os Exemplos abaixo:
+##Exemplos:
 
 
 Exemplo 1
@@ -50,7 +50,7 @@ MG
 Exemplo 2
 ```PHP
 Converter DDD para Nome do Estado
-<?= \BrazilianDddToUF\Convert\ConvertDDDtoUF::getUF(31) ?>
+<?= \BrazilianDddToUF\Convert\ConvertDDDtoStateName::getStateName(31) ?>
 
 Result: 
 Minas Gerais        
