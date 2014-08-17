@@ -1,0 +1,24 @@
+{
+    "name": "DevWellington/brazilian-ddd-to-uf",
+    "description": "Um Helper para converter o DDD para a UF",
+    "type": "helper",
+    "keywords": ["helper", "phone", "states", "uf", "brazilian"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wellington Ribeiro (DevWellington)",
+            "email": "devwellington@gmail.com",
+            "role" : "Author"
+        }
+    ],
+    "homepage": "https://github.com/DevWellington/brazilian-ddd-to-uf",
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-0" : {
+            "BrazilianDddToUF\\" : "src/"
+        }
+    },
+    "require" : {
+        "php" : ">5.4"
+    }
+}
