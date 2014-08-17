@@ -80,3 +80,6 @@ Validar o DDD
 Result: 
 bool(false)
 ```
+
+###License
+Esta biblioteca está licenciada sob a licença MIT - veja o arquivo de licença para mais detalhes.
