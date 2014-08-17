@@ -2,7 +2,7 @@
     "name": "devwellington/brazilian-ddd-to-uf",
     "description": "Um Helper para converter o DDD para a UF",
     "type": "helper",
-    "keywords": ["helper", "phone", "states", "uf", "brazilian"],
+    "keywords": ["helper", "phone", "ddd", "uf", "brazilian"],
     "license": "MIT",
     "authors": [
         {

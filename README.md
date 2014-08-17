@@ -54,8 +54,7 @@ Converter DDD para Nome do Estado
 <?= \BrazilianDddToUF\Convert\ConvertDDDtoStateName::getStateName(31) ?>
 
 Result: 
-Minas Gerais        
-
+Minas Gerais
 ```
 
 Exemplo 3
