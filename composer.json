@@ -11,7 +11,7 @@
             "role" : "Author"
         }
     ],
-    "homepage": "https://github.com/DevWellington/brazilian-ddd-to-uf",
+    "homepage": "http://devwellington.github.io/brazilian-ddd-to-uf/",
     "minimum-stability": "dev",
     "autoload" : {
         "psr-0" : {
