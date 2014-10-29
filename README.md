@@ -1,4 +1,7 @@
 # BrazilianDddToUF
+
+[![Code Climate](https://codeclimate.com/github/DevWellington/brazilian-ddd-to-uf/badges/gpa.svg)](https://codeclimate.com/github/DevWellington/brazilian-ddd-to-uf)
+
 O Brazilian DDD To UF atende as necessidades das aplicações que necessitam por algum movito converter (ou até validar) o Número do DDD de um telefone para a UF.
 
 ## Requisitos
