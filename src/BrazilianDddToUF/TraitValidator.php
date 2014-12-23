@@ -12,4 +12,4 @@ trait TraitValidator {
 
         return true;
     }
-} 
+}
